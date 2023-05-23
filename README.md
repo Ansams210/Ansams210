@@ -1,7 +1,7 @@
 
-<h1>Hi, I'm Ashley! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/", 
+<h1>Hi, I'm Ashley! <br/><a href=>IT Professional</a>, <a href="https:/https://github.com/Ansams210/"https://www.linkedin.com/in/ash-sams-721376261/, 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> Course Careers Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
