@@ -3,7 +3,7 @@
 
 <h2>Course Careers IT Projects:</h2>
 
-- <b>OsTicket Home Labs 
+<h2>👨‍💻 Software Development Projects:</h2>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b> IT Certifications 
