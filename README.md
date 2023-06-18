@@ -6,8 +6,8 @@
 <h2>👨‍💻 OsTicket Home Labs:</h2>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>👨‍💻 IT Certification:</h2>(https://www.youtube.com/watch?v=a83ASGn_V_s)
-  -
+<h2>👨‍💻 IT Certification:</h2>
+  -Course Careeres
 
 <h2>📺 Popular YouTube Videos</h2>
 
