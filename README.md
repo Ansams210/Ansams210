@@ -14,3 +14,5 @@
 - [OSTicket Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
 -
 <h2> 🤳 Connect with me:</h2>
+
+[youtube]: https://www.youtube.com/c/joshmadakor
