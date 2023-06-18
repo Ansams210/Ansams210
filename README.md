@@ -6,7 +6,7 @@
 <h2>👨‍💻 OsTicket Home Labs:</h2>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b> IT Certifications 
+<h2>👨‍💻 IT Certification:</h2>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h2>📺 Popular YouTube Videos</h2>
