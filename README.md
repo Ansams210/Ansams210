@@ -5,7 +5,8 @@
 
 
 <h2>👯 OsTicket Home Lab:</h2>  
- - [Course Careers](https://www.youtube.com/watch?v=a83ASGn_V_s) 
+
+- [OSTicket Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s) 
 
 <h2>👨‍💻 IT Certification:</h2>
 
