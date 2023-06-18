@@ -4,7 +4,7 @@
 
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My IT Projects:</h2>
 
 - [OSTicket walk through](https://www.youtube.com/watch?v=a83ASGn_V_s) 
 
