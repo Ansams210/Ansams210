@@ -1,9 +1,9 @@
 
 <h1>Hi, I'm Ashley! <br/><a href=></a>, <a href="https:/https://github.com/Ansams210/"https://www.linkedin.com/in/ash-sams-721376261
 
-<h2>👨‍💻 OsTicket Home Labs:</h2>
+<h2>👨‍💻 My IT Projects:</h2>
 
-<h2>👯  My IT Projects:</h2>  
+<h2>👯 OsTicket Home Lab:</h2>  
 
 <h2>👨‍💻 IT Certification:</h2>
 
