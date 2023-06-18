@@ -7,8 +7,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 IT Certification:</h2>
-- [Course Careers](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  
+
+ - [OSTicket Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
